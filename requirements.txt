@@ -1,0 +1,5 @@
+inquirer
+prompt_toolkit
+pycryptodome
+sqlite3
+hashlib
